@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "imgSrc": "portfolio-01.jpg",
+        "alt": "Portfolio Item 1",
+        "link": "project-details.html"
+    },
+    {
+        "id": 2,
+        "imgSrc": "portfolio-02.jpg",
+        "alt": "Portfolio Item 2",
+        "link": "project-details.html"
+    },
+    {
+        "id": 3,
+        "imgSrc": "portfolio-03.jpg",
+        "alt": "Portfolio Item 3",
+        "link": "project-details.html"
+    },
+    {
+        "id": 4,
+        "imgSrc": "portfolio-04.jpg",
+        "alt": "Portfolio Item 4",
+        "link": "project-details.html"
+    },
+    {
+        "id": 5,
+        "imgSrc": "portfolio-05.jpg",
+        "alt": "Portfolio Item 5",
+        "link": "project-details.html"
+    }
+]

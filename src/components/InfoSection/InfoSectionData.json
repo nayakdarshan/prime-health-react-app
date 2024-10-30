@@ -1,0 +1,33 @@
+{
+  "sectionData": {
+    "subtitle": "WHY CHOOSE US",
+    "title": "Need an instant consult with a doctor online?",
+    "description": "Say goodbye to appointment hassles and consult instantly with the next available online doctor. Our telehealth doctors adhere to strict Australian medical telehealth guidelines, providing medical advice, online medical."
+  },
+  "services": [
+    {
+      "icon": "flaticon flaticon-awards",
+      "title": "Medical Certificates",
+      "description": "24 hours a day, 7 days a week."
+    },
+    {
+      "icon": "flaticon flaticon-defribillator",
+      "title": "Online Prescription",
+      "description": "Heart is get replaced with healthier."
+    }
+  ],
+  "images": [
+    {
+      "src": "single-img-01.jpg",
+      "width": 1140,
+      "height": 1196,
+      "alt": "single-img-01"
+    },
+    {
+      "src": "single-img-24.jpg",
+      "width": 960,
+      "height": 528,
+      "alt": "single-img-24"
+    }
+  ]
+}

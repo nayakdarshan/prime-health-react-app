@@ -1,0 +1,33 @@
+{
+    "sectionData": {
+      "subtitle": "Choose a telehealth service",
+      "title": "Prime Healthcare Services Provided"
+    },
+    "services": [
+      {
+        "icon": "instant_con_icon.png",
+        "title": "Instant consultation",
+        "description": "Speak with a registered Australian health practitioner within 15 minutes via video consult. Available: 24/7",
+        "link": "#"
+      },
+      {
+        "icon": "cardiology.svg",
+        "title": "Online medical certificate",
+        "description": "Certificate within 15 minutes 24 hours a day, 7 days a week.",
+        "link": "valve-diseases.html"
+      },
+      {
+        "icon": "healthcare.svg",
+        "title": "Online Prescription",
+        "description": "Avoid the hassle of clinic visits and opt for online prescriptions issued by registered health practitioners in Australia.",
+        "link": "endocrinology.html"
+      },
+      {
+        "icon": "pain.svg",
+        "title": "Radiology / X-Rays",
+        "description": "Request imaging referrals. Availability of certain tests may vary.",
+        "link": "heart-transplant.html"
+      }
+    ]
+  }
+  

@@ -1,0 +1,27 @@
+{
+    "sectionData": {
+      "subtitle": "Prime Healthcare",
+      "title": "What Are They Saying"
+    },
+    "testimonials": [
+      {
+        "name": "Steven Smith",
+        "role": "Head Dr. at Primehealth",
+        "image": "12.jpg",
+        "text": "I had an excellent experience with Prime Health! The service was incredibly easy to use, efficient, and extremely convenient. From start to finish, everything was seamless, making my healthcare needs hassle-free. I highly recommend Prime Health for their top-notch service."
+      },
+      {
+        "name": "Metthew Wood",
+        "role": "Head Dr. at Dezily",
+        "image": "15.jpg",
+        "text": "Knew exactly what I needed and was very reassuring. Fantastic post-care & a very good staff backing! Dezily’s care has been top-notch. I felt like I was going to be OK. I had heart replacement with Dr. Sam. The surgery went smoothly and success."
+      },
+      {
+        "name": "Teresa Mayer",
+        "role": "Head Dr. at Dezily",
+        "image": "16.jpg",
+        "text": "I had heart replacement with Dr. Sam. The surgery went smoothly. I am perfectly fit & fine after surgeries. They knew exactly what I needed!!!!!!. Knew exactly what I needed and was very reassuring. Fantastic post-care & a very good staff backing!"
+      }
+    ]
+  }
+  

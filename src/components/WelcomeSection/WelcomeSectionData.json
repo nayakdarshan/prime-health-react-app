@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Personalized Healthcare",
+      "description": "You can call the official team if your child, teenager, or family has difficulties.",
+      "icon": "flaticon-heart-5",
+      "link": "about-us.html"
+    },
+    {
+      "title": "Professional Team",
+      "description": "Detects the presence or absence of flow into blood vessels via the skin.",
+      "icon": "flaticon-doctor-1",
+      "link": "about-us.html"
+    },
+    {
+      "title": "Regularly Checkup",
+      "description": "Device provides continuous recording of electrical activity of the heart.",
+      "icon": "flaticon-defribillator",
+      "link": "about-us.html"
+    },
+    {
+      "title": "Nuclear Stress Testing",
+      "description": "Treatment of congenital heart defects, disease and electrophysiology.",
+      "icon": "flaticon-cardiology-2",
+      "link": "about-us.html"
+    }
+  ]
