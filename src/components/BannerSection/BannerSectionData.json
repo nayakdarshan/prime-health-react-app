@@ -1,0 +1,65 @@
+{
+    "banners": [
+      {
+        "backgroundImage": "slider-mainbg-02.jpg",
+        "slideIcon": "slide-img.png",
+        "subtitle": "24/7 Telehealth Appointments",
+        "title": "Trusted by over 250K Australians",
+        "buttonLink": "contact-us.html",
+        "buttonText": "See a doctor now",
+        "testimonial": {
+          "name": "Alex Sam Martin",
+          "position": "Senior cardiologist",
+          "image": "15.jpg"
+        }
+      },
+      {
+        "backgroundImage": "slider-mainbg-01.jpg",
+        "featuredIcons": [
+          {
+            "icon": "ambulance.svg",
+            "title": "Emergency Services",
+            "link": "about-us.html"
+          },
+          {
+            "icon": "stethoscope.svg",
+            "title": "Outdoor Checkup",
+            "link": "about-us.html"
+          },
+          {
+            "icon": "heart-icon.svg",
+            "title": "Health Screening",
+            "link": "about-us.html"
+          }
+        ],
+        "teamMembers": [
+          {
+            "name": "Mary Edwards Walker",
+            "position": "BAMS (Sr. Heart Surgeon)",
+            "link": "team-details.html"
+          },
+          {
+            "name": "Dr Jaime Escalante",
+            "position": "MBBS (MS in General Surgery)",
+            "link": "team-details.html"
+          }
+        ]
+      },
+      {
+        "backgroundImage": "slider-mainbg-07.jpg",
+        "title": "We Have Top Level Of Best Heart Doctors",
+        "subtitle": "WE GIVE YOU THE BEST",
+        "buttonLinks": [
+          {
+            "text": "See How Can We Help",
+            "link": "contact-us.html"
+          },
+          {
+            "text": "Make an Appointment",
+            "link": "contact-us.html"
+          }
+        ]
+      }
+    ]
+  }
+  

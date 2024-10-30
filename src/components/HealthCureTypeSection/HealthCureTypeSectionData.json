@@ -1,0 +1,42 @@
+{
+    "title": "Happy Customers & Clients",
+    "clients": [
+      {
+        "image": "client-01.png",
+        "alt": "image1",
+        "width": 158,
+        "height": 67
+      },
+      {
+        "image": "client-02.png",
+        "alt": "image2",
+        "width": 163,
+        "height": 60
+      },
+      {
+        "image": "client-03.png",
+        "alt": "image3",
+        "width": 160,
+        "height": 68
+      },
+      {
+        "image": "client-04.png",
+        "alt": "image4",
+        "width": 164,
+        "height": 57
+      },
+      {
+        "image": "client-05.png",
+        "alt": "image5",
+        "width": 157,
+        "height": 67
+      },
+      {
+        "image": "client-06.png",
+        "alt": "image6",
+        "width": 158,
+        "height": 68
+      }
+    ]
+  }
+  
