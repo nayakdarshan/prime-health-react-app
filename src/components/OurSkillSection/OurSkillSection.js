@@ -1,5 +1,5 @@
 import React from 'react';
-import skillData from './OurSkillSectionData.json';
+import skillData from '../../data/OurSkillSectionData.json';
 
 function OurSkillSection() {
   return (

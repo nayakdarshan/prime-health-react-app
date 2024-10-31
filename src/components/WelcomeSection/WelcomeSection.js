@@ -1,5 +1,5 @@
 import React from 'react'
-import welcomeSectionData from './WelcomeSectionData.json';
+import welcomeSectionData from '../../data/WelcomeSectionData.json';
 
 const data = welcomeSectionData;
 

@@ -1,5 +1,5 @@
 import React from 'react'
-import data from './InfoSectionData.json';
+import data from '../../data/InfoSectionData.json';
 import importImages from '../../utils/importImages';
 
 function InfoSection() {

@@ -1,7 +1,7 @@
 import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 // import 'swiper/swiper-bundle.min.css'; // Ensure you import Swiper styles
-import servicesData from './ServiceSectionData.json';
+import servicesData from '../../data/ServiceSectionData.json';
 import importImages from '../../utils/importImages';
 
 function ServiceSection() {
