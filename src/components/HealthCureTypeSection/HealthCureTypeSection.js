@@ -1,5 +1,5 @@
 import React from 'react';
-import clientData from './HealthCureTypeSectionData.json';
+import clientData from '../../data/HealthCureTypeSectionData.json';
 import importImages from '../../utils/importImages';
 
 function HealthCureTypeSection() {

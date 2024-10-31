@@ -1,5 +1,5 @@
 import React from 'react';
-import blogData from './AboutSectionData.json';
+import blogData from '../../data/AboutSectionData.json';
 import importImages from '../../utils/importImages';
 function AboutSection() {
   return (

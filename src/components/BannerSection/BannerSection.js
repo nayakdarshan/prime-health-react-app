@@ -1,6 +1,6 @@
 import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
-import bannerData from './BannerSectionData.json';
+import bannerData from '../../data/BannerSectionData.json';
 import importImages from '../../utils/importImages';
 import { EffectFade, Navigation } from 'swiper/modules';
 

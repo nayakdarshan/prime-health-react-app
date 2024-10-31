@@ -3,7 +3,7 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 // import 'swiper/swiper-bundle.min.css';
 import importImages from '../../utils/importImages';
-import testimonialData from './TestimonialSectionData.json';
+import testimonialData from '../../data/TestimonialSectionData.json';
 function TestimonialSection() {
   return (
     <section className="ttm-row zero_padding-section testimonial-section-homepage clearfix">

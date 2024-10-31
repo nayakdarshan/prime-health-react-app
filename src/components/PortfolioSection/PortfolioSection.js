@@ -1,5 +1,5 @@
 import React from 'react';
-import portfolioData from './PortfolioSectionData.json';
+import portfolioData from '../../data/PortfolioSectionData.json';
 import importImages from '../../utils/importImages';
 import { Swiper, SwiperSlide } from 'swiper/react';
 // import 'swiper/swiper-bundle.min.css'; // Import Swiper styles
